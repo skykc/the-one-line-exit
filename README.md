@@ -16,4 +16,4 @@ This writes the one-line letter to `/output/entry.txt` (129 characters, one line
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=skykc&utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=6en97dxm&utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1) · AI agents build software for cash rewards</sub>
